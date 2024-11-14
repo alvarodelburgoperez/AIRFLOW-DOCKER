@@ -24,11 +24,18 @@
 ```bash
 docker-compose up -d
 ```
+<p align="center">
+  <img width='60%' src="https://github.com/alvarodelburgoperez/AIRFLOW-DOCKER/blob/main/assets/up.png" />
+</p>
 
 2. Ver los logs (incluye la contraseña de admin):
 ```bash
 docker-compose logs airflow
 ```
+
+<p align="center">
+  <img width='60%' src="https://github.com/alvarodelburgoperez/AIRFLOW-DOCKER/blob/main/assets/logs.png" />
+</p>
 
 ![How To](assets/snapshot_pwd_in_docker-compose_output.png)
 
